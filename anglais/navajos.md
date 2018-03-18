@@ -1,15 +1,15 @@
 # INTRODUCTION
 
-
-## Introducing the concept of code talking with the idea of translation
+## Introducing the concept of code talking with the idea of translation to send
+secretly a message
 
         To send secretly a message, we know we can use:
-	- steganography, hidding the message;
+	- steganography, hiding the message;
 	- cryptography, transforming the message into an apparent nonsense with
 	  the possibility to recover the message for selected persons
 	But there can be imagined another technique, such as:
 	- translation of the message into an obscure language
-	This isn't a cryptosystem because there isn't generally only one way to 
+	This isn't a crypto system because there isn't generally only one way to 
 	translate a message and some content aren't translatable.
 	
 	
@@ -19,7 +19,6 @@
 	This method was particularly used by America which recruit native
 	American who used their native language. 
 	
-
 
 ## Why did they appears in the 20th century?
 	- système crypto lent/transport sur le terrain difficile voir impossible.
@@ -31,7 +30,7 @@
 
 ## Goal of code talker?
 	Transmit as soon as possible messages, it is crucial that messages be
-	encoded because of enemies.   (attention, y'avait un subjonctif! donc be)
+	encoded because of enemies.  
 
 	Dire que l'on s'intéresse aux Navajos code talker mais qu'il faut d'abord expliquer les antécédents.
 
@@ -41,7 +40,7 @@
 ## World war 1 :
 
 ### First use
-	The first use of native american code talker : Cherokee. During Second Battle of the Somme in September 1918. 
+	The first use of native American code talker : Cherokee. During Second Battle of the Somme in September 1918. 
 	Unit 30th Infantry Division were under British command.
 
 ### Creation of code talker
@@ -55,11 +54,11 @@
 		and transmit secret tactical messages in their native language.
 		They helped to win during the Meuse-Argonne Offensive. In 24
 		hours, they turned the tide of the battle. And in 72, Germans
-		wre going back.
+		are going back.
 
 
 ## End World War 1 : Germans wants to understand and get prepared ?
-	Germans and Japanese studied some indians languages. German send 30 anthropologists to learn native american languages
+	Germans and Japanese studied some Indians languages. German send 30 anthropologists to learn native American languages
 
 	But, they didn't learn a lot of languages because of the diversity:
 	They were too much to learn.
@@ -76,7 +75,7 @@
 	-> RACONTER LE TEST QUI A ETE EFFECTUE ET PARLER DE LA LETTRE ECRITE
 	PAR GENERAL 
 	
-		-  Major General Clayton Clayton Barney Vogel:
+		-  Major General Clayton Barney Vogel:
 		"
 		On February 28, 1942, General Vogel tested the idea of the Navajo code
 		talkers by "installing a telephone connection between two offices and wrote out
@@ -95,7 +94,9 @@
 - It remained mostly "unwritten".
 - Except the Navajos, only a handful of american experts were able to speak 
   langage. Notably, german didn't know it even if they send some people
-  to learn native american language before the begin of the WW2 
+  to learn native american language before the begin of the WW2. -> less than
+  30 non-navajo people could understand it according to the letter of major
+  general Clayton.
 - Navajo has a complex grammar, different from german and japanese 
 - faster than any machine at this time.
 
@@ -104,11 +105,17 @@
 ## History of Navajos
 
 Ici, on peut parler de l'acculturation, si tu veux. Où ils vivent ...
+-> j'hésite en fait, car ça me semble compliqué!
+peut être juste une petit parenthèse? Un truc genre
+"N'oublions pas au passage que les relations entre américains et américains
+natifs furent très compliquées peut de temps avant. Par ex pour les navajo y'a 
+la longue marche..."
 
-## Recruitement
+## Recruitment
 	29 Navajos recruit in May 1942 task develop a Navajo code
-
 	Then, between 375 to 420 Navajos participate to the program.
+	-> on peut parler du fait qu'il y a eu  tout au long de la guerre
+	des formations
 
 ## The code
 Explication du code, comment il est construit mettre image et exemple
@@ -131,7 +138,7 @@ On peut mettre un extrait de la langue ici
 source: https://www.archives.gov/education/lessons/code-talkers
 
 
-### Advantage and inconvienient of the code
+### Advantage and inconvenient of the code
 	+ difficulté si on est pas natif de bien distinguer les sons
 	+ difficulté de parler navaho, donc d'imposture, si on est pas natif
 	+ Again faster than a machine they encode in just 20 seconds, and machine in 30 minutes.
@@ -151,14 +158,11 @@ source: https://www.archives.gov/education/lessons/code-talkers
 	  source: https://www.nytimes.com/2014/06/06/us/chester-nez-dies-at-93-his-native-tongue-helped-to-win-a-war-of-words.html?_r=0
 
 ## Honors
-### Declasification
+### Declassification
 They keep secret the program Navajo Code during years before declassified it in 1968. A partir de cette date des hommages ont été donnés régulièrement par différent biais. Film, documentaires, livres et récompense délivrées aux navajos.
 
 ## Situation actuelle
 
 # CONCLUSION
 Débat : Serait-il possible de refaire cette technique un jour? Mélangée avec des techniques modernes, est-ce que ça pourrait être déconcertant pour des ennemis?
--> pas fan du débat, car il me semble evident que c'est mort d'utiliser cela
-today. J'ai le sentiment que c'était vraiment à un moment particulier,
-technologiquement parlant, de l'histoire que cela à pu arriver (bad encryption
-machine + existence of radio).
+-> un truc me gêne dans ce choix de débat mais je ne sais pas encore quoi!
