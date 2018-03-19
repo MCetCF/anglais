@@ -25,7 +25,7 @@ The first half of the 20th century is the meeting of two conditions that we
 think are necessary for the apparition of code talkers:
 - The existence of the radio and the phone;
 - The fact that most of the cipher machines were too slow and fragile 
-- to be used for tactical field communications (as for example the SIGABA)..
+  to be used for tactical field communications (as for example the SIGABA)...
 
 ![Image of the SIGABA](pictures/SIGABA.png)
 
@@ -192,8 +192,8 @@ PUT HERE a sample of the Navajo language.
 Because of a lack of military terms in the Navajo language, there was the need
 for a code which consist in two different parts:
 - A dictionary for common military words; using for example fish's names for ships
-- and bird's names for planes. 
-- (source for the picture
+  and bird's names for planes. 
+  (source for the picture
   https://www.cia.gov/news-information/featured-story-archive/2008-featured-story-archive/navajo-code-talkers/)
 ![some word for ships](pictures/ships.jpg)
 
@@ -257,7 +257,7 @@ source: https://www.nytimes.com/2014/06/06/us/chester-nez-dies-at-93-his-native-
 
 
 # Conclusion: 
-##Declassification and recognition of code talkers after the war
+## Declassification and recognition of code talkers after the war
  
 - The program has been classified until 1968.
 - In 2000, the US Congree passed legislation to honor the Navajo Code Talkers
