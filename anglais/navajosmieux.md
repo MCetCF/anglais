@@ -1,55 +1,67 @@
 # INTRODUCTION
 
-## Introducing the concept of code talking with the idea of translation to send
-secretly a message
+## Introducing the concept of code talking with the idea of translation
 
 To send secretly a message, we know we can use:
 - steganography, hiding the message;
 - cryptography, transforming the message into an apparent nonsense with
   the possibility to recover the message for selected persons
+  
 But there can be imagined another technique, such as:
 - translation of the message into an obscure language
 This isn't a crypto system because there isn't generally only one way to 
 translate a message and some content aren't translatable.
 
 
-This method have been used during the 20th century by people, called code talkers, who transmit by radio
+This method have been used during the first halt of the 20th century by people, called code talkers, who transmit by radio
 secret messages during wartime. 
 
 This method was particularly used by America which recruit native
 American who used their native language. 
 	
 
-## The first half of the 20th century is the meeting of two conditions to have code-talkers:
-	- Most of the cipher machines too slow and fragile to be used for
-	  tactical field communications (as for example the SIGABA)..
-	- existence of the radio;
+## Why by that time? 
 
-## Announcement of the plan
+The first half of the 20th century is the meeting of two conditions that we
+think are necessary for the apparition of code talkers:
+- The existence of the radio and the phone;
+- The fact that most of the cipher machines were too slow and fragile 
+- to be used for tactical field communications (as for example the SIGABA)..
 
+Picture of the SIGABA 
+
+## plan
+
+We choose to speak of the Navajo code talkers who are the best know
+and whose story is declassified since 1968.
+We will first relate how Navajo  code talkers have been recruited; 
+and then we will study the code they used.
+PUIS VOIR QUOI? leur reconnaissance?  
 
 # How Navajo code talkers have been recruited.
 
-## The idea of code talkers wasn't new
+## Preliminary: the code talkers during the WWI
 
-### First use of code talkers during the WWI:
-The first use of native American code talker : Cherokee. During Second Battle of the Somme in September 1918. 
-Unit 30th Infantry Division were under British command.
+The first use of native American code talker : Cherokee. During Second Battle
+of the Somme in September 1918.  Unit 30th Infantry Division were under British
+command.
 
-During WW1, Germans tapped into telephone lines of American, break their codes, and captured runners send out to deliver messages directly. So, they have some tactical plans of enemies in their hands.
+During WW1, Germans tapped into telephone lines of American, break their codes,
+and captured runners send out to deliver messages directly. So, they have some
+tactical plans of enemies in their hands.
 
-		Blocked situation in 1918. An idea pop because Captain Lawrence
-		of US Army eared two Choctaw (Solomon Louis and Mitchell Bobb)
-		talking together in their own language the Choctaw => creation
-		code talkers. Find 8 Choctaw in battalion and 14 in 36th
-		Infantry Division. They used them to build a code with 20 terms
-		and transmit secret tactical messages in their native language.
-		They helped to win during the Meuse-Argonne Offensive. In 24
-		hours, they turned the tide of the battle. And in 72, Germans
-		are going back.
+	Blocked situation in 1918. An idea pop because Captain Lawrence
+	of US Army eared two Choctaw (Solomon Louis and Mitchell Bobb)
+	talking together in their own language the Choctaw => creation
+	code talkers. Find 8 Choctaw in battalion and 14 in 36th
+	Infantry Division. They used them to build a code with 20 terms
+	and transmit secret tactical messages in their native language.
+	They helped to win during the Meuse-Argonne Offensive. In 24
+	hours, they turned the tide of the battle. And in 72, Germans
+	are going back.
 
 
-## Pacific War
+## Pacific War and the idea of Philip Johnston
 	
 December 7 1941: Attack on Pearl Harbor
 Pacific war: 7 December 1941 – 2 September 1945		
@@ -69,8 +81,7 @@ languages. Luckily, they didn't have the time to learn Navajo: there
 were too many languages to learn.
 
 After some hesitations, the major general Clayton Barney Vogel 
-accepted to give this idea
-a try.  
+accepted to give this idea a try.  
 Johnston recruited four bilingual Navajos and, on February 28,
 they go to Camp Elliott for a demonstration. 
 Two 
@@ -165,7 +176,7 @@ between 375 to 420 Navajos participate to the program. There
 ### Declassification They keep secret the program Navajo Code during years
 before declassified it in 1968. A partir de cette date des hommages ont été
 donnés régulièrement par différent biais. Film, documentaires, livres et
-récompense délivrées aux navajos.
+récompense délivrées aux Navajos.
 
 ## Situation actuelle
 
