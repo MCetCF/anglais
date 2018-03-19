@@ -63,8 +63,8 @@ tactical plans of enemies in their hands.
 
 ## Pacific War and the idea of Philip Johnston
 	
-December 7 1941: Attack on Pearl Harbor
-Pacific war: 7 December 1941 – 2 September 1945		
+- December 7 1941: Attack on Pearl Harbor
+- Pacific war: 7 December 1941 – 2 September 1945		
 
 ![Philip Johnston](pictures/Jonhston.jpg)
  
@@ -107,6 +107,7 @@ https://www.archives.gov/files/education/lessons/code-talkers/images/letter-01.j
 
 
 In May 1942, 29 Navajos recruit task develop a Navajo code.
+Altogether, between 375 to 420 Navajos participate to the program. 
 
 #### transition
 Let's see now some reason, some wrote  in the letter, that justifies   
@@ -204,7 +205,28 @@ The Navajo code is the only spoken military code never to have been deciphered
 
 source: https://www.nytimes.com/2014/06/06/us/chester-nez-dies-at-93-his-native-tongue-helped-to-win-a-war-of-words.html?_r=0
 
-## Navajos as humans; the example of boarding schools
+# Navajos as humans 
+
+## The Long Walk (1864)
+
+According to the website navajocodetalkers.org, Navajo long walk is considered as one of the 
+most important parts of Navajo history. 
+
+- deportation of approximatively 8000 Navajo people by the government of the United States of
+  America with a forced trek over 480km into the Bosque Redondo camp.
+
+- Many began the walk exhausted and malnourished, 
+They were never informed as to: 
+- where they were going; 
+- why they were being relocated; 
+- and how long it would take to get there. 
+
+The journey lasted 18 days, nearly 200 Navajos died of exposure 
+to elements and starvation. 
+
+(source:  https://navajocodetalkers.org/navajo-long-walk/ )
+
+## Boarding schools 
 
  In the begin of the 20th century, many American Indian children were forced to be in church-operated boarding schools. 
  These schools were Founded to eliminate traditionnal American Indian ways of life: it was forbidden to speak in his native language here. 
@@ -230,11 +252,10 @@ languages in military service.
     
 ![Boarding schools](pictures/boarding_schools.jpg)
     
-##  Recruitment, 
-between 375 to 420 Navajos participate to the program. There  
-	-> on peut parler du fait qu'il y a eu  tout au long de la guerre
-	des formations
-## Honors
+(source: http://nmai.si.edu/education/codetalkers/html/chapter3.html )
+
+## Declassification and recognition of code talkers after the war
+ 
 - The program has been classified until 1968.
 - In 2000, the US Congree passed legislation to honor the Navajo Code Talkers
   and give them special gold and silved congressional medals.
@@ -242,7 +263,18 @@ between 375 to 420 Navajos participate to the program. There
   George W. Bush, which recognizes every other native american code talker who served
   in the United States military durring WWI or WWII 
 
-## Actual Situation
+# Actual Situation of the Navaho
+
+    - Current population: The Navajos have more than 300,000 tribal members.
+    - Politicaly divised between two federally recognized tribes: Navajo Nation
+      (the largest land area detained by a Native American tribe) and Colorado 
+      Rived Indian Tribes.
+    
+    Tribal government: Navajo government operates under a constitution with a
+    President, Vice President, Council (with 88 delegates), court system,
+    police force, college, and many other programs and services for the Navajo
+    people.
+
 
 # CONCLUSION
 Débat : Serait-il possible de refaire cette technique un jour? Mélangée avec des techniques modernes, est-ce que ça pourrait être déconcertant pour des ennemis?
