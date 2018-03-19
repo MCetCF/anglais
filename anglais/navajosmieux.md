@@ -65,6 +65,8 @@ tactical plans of enemies in their hands.
 	
 December 7 1941: Attack on Pearl Harbor
 Pacific war: 7 December 1941 – 2 September 1945		
+
+![Philip Johnston](pictures/Jonhston.jpg)
  
 Philip Johnston was a World War I veteran who had grown  up on the
 Navajo reservation while his parents served there as missionaries. 
@@ -96,7 +98,13 @@ able to translate such message in approximatively 20 seconds, much
 better than the 30 minutes needed by machines at that time.
 
 The demonstration was a success and Major General Clayton wrote a
-letter to the commandant of the Marine Corps recommending the Navajo
+letter to the commandant of the Marine Corps recommending the Navajo code
+talkers.
+![the letter](pictures/letter.jpg)
+(
+https://www.archives.gov/files/education/lessons/code-talkers/images/letter-01.jpg
+)
+
 
 In May 1942, 29 Navajos recruit task develop a Navajo code.
 
@@ -133,8 +141,11 @@ PUT HERE a sample of the Navajo language.
 Because of a lack of military terms in the Navajo language, there was the need
 for a code which consist in two different parts:
 - A dictionary for common military words; using for example fish's names for ships
-- and bird's names for planes. (source for the picture
+- and bird's names for planes. 
+- (source for the picture
   https://www.cia.gov/news-information/featured-story-archive/2008-featured-story-archive/navajo-code-talkers/)
+![some word for ships](pictures/ships.jpg)
+
 - A phonetic alphabet table, to spell word that aren't in the Navajo language
   nor the precedent dictionary;
 
@@ -190,6 +201,7 @@ source: https://www.archives.gov/education/lessons/code-talkers
 
 A mettre quelque part:
 The Navajo code is the only spoken military code never to have been deciphered
+
 source: https://www.nytimes.com/2014/06/06/us/chester-nez-dies-at-93-his-native-tongue-helped-to-win-a-war-of-words.html?_r=0
 
 ## Navajos as humans; the example of boarding schools
@@ -216,6 +228,8 @@ languages in military service.
     Jr., Navajo Code Talker, National Museum of the American Indian interview,
     2004
     
+![Boarding schools](pictures/boarding_schools.jpg)
+    
 ##  Recruitment, 
 between 375 to 420 Navajos participate to the program. There  
 	-> on peut parler du fait qu'il y a eu  tout au long de la guerre
@@ -232,4 +246,6 @@ between 375 to 420 Navajos participate to the program. There
 
 # CONCLUSION
 Débat : Serait-il possible de refaire cette technique un jour? Mélangée avec des techniques modernes, est-ce que ça pourrait être déconcertant pour des ennemis?
--> un truc me gêne dans ce choix de débat mais je ne sais pas encore quoi!
+
+
+https://www.nytimes.com/2017/11/27/us/politics/trump-elizabeth-warren-pocahontas-navajo.html
