@@ -28,7 +28,7 @@ think are necessary for the apparition of code talkers:
 - The fact that most of the cipher machines were too slow and fragile 
 - to be used for tactical field communications (as for example the SIGABA)..
 
-Picture of the SIGABA 
+![Image of the SIGABA](pictures/SIGABA.png)
 
 ## plan
 
@@ -38,7 +38,7 @@ We will first relate how Navajo  code talkers have been recruited;
 and then we will study the code they used.
 PUIS VOIR QUOI? leur reconnaissance?  
 
-# How Navajo code talkers have been recruited.
+# Navajos as code-talkers: how they have been recruited.
 
 ## Preliminary: the code talkers during the WWI
 
@@ -105,6 +105,13 @@ Let's see now some reason, some wrote  in the letter, that justifies
 the choice of Navajo and let's see how the Navajo code worked.
  
 # Navajo and Navajo code..
+
+	Code Talkers were given the messages in English. Without writing them down,
+	they translated and sent them to another Code Talker. After the message was
+	transmitted and received, it was written down in English and entered into a
+	message logbook. The Code Talkers also sent messages in English. Messages were
+	only coded when absolute security was needed.
+
 ## Why the Navajo language was a good choice?
 - The largest population of Native American so the possibility to recruit and
   from enough code talkers;
@@ -121,8 +128,8 @@ the choice of Navajo and let's see how the Navajo code worked.
 PUT HERE a sample of the Navajo language. 
 
 ## The code
-
-### Special code words
+ 
+## How it works 
 Because of a lack of military terms in the Navajo language, there was the need
 for a code which consist in two different parts:
 - A dictionary for common military words; using for example fish's names for ships
@@ -130,6 +137,27 @@ for a code which consist in two different parts:
   https://www.cia.gov/news-information/featured-story-archive/2008-featured-story-archive/navajo-code-talkers/)
 - A phonetic alphabet table, to spell word that aren't in the Navajo language
   nor the precedent dictionary;
+
+	  So we start talking about different things, animals, sea creatures, birds,
+	  eagles, hawks, and all those domestic animals. Why don’t we use those names
+	  of different animals—from A to Z. So A, we took a red ant that we live with
+	  all the time. B we took a bear, Yogi the Bear, C a Cat, D a Dog, E an Elk, F,
+	  Fox, G, a goat and so on down the line.—Chester Nez, Navajo Code Talker,
+	  National Museum of the American Indian interview, 2004
+	  
+  Navajo Code Talkers memorized 17 pages of code during their training.
+  
+	  Carl Gorman joined the United States Marine Corps in 1942 when he learned
+	  they were recruiting Navajos. He went through all of the difficult training
+	  and was one of the original 29 Navajos who were given the secret mission of
+	  developing the Navajo code. Carl answered one of his officers who had asked
+	  why Navajos were able to memorize the complex code so quickly: 
+	  
+	  “For us, everything is memory, it’s part of our heritage. We have no written language.
+	  Our songs, our prayers, our stories, they’re all handed down from grandfather
+	  to father to children—and we listen, we hear, we learn to remember
+	  everything. It’s part of our training.” (Power of a Navajo: Carl Gorman, the
+	  Man and His Life, by Henry and Georgia Greenberg,1996) 
 
 
 ### Advantage and inconvenient of the code
@@ -159,31 +187,49 @@ Inconvénients:
 - "the original 211 vocabulary terms were also expanded to 411" 
 source: https://www.archives.gov/education/lessons/code-talkers
 
-## About the Navajos
 
-Ici, on peut parler de l'acculturation, si tu veux. Où ils vivent ...
--> j'hésite en fait, car ça me semble compliqué!
-peut être juste une petit parenthèse? Un truc genre
-"N'oublions pas au passage que les relations entre américains et américains
-natifs furent très compliquées peut de temps avant. Par ex pour les navajo y'a 
-la longue marche..."
+A mettre quelque part:
+The Navajo code is the only spoken military code never to have been deciphered
+source: https://www.nytimes.com/2014/06/06/us/chester-nez-dies-at-93-his-native-tongue-helped-to-win-a-war-of-words.html?_r=0
 
+## Navajos as humans; the example of boarding schools
+
+ In the begin of the 20th century, many American Indian children were forced to be in church-operated boarding schools. 
+ These schools were Founded to eliminate traditionnal American Indian ways of life: it was forbidden to speak in his native language here. 
+
+The children were forced to
+- cut their hair and give up their traditional clothing;
+- give up their meaningful Native names and take English ones; 
+- replace their traditional religious practices by Christianity. 
+They were taught that their cultures were inferior. 
+
+Many Code Talkers attended boarding schools. 
+Schools were run like military organizations and this
+made it easier for them to adapt to life in the American military.
+As adults, they found it puzzling that the same government that had tried to take
+away their languages in schools later gave them a critical role speaking their
+languages in military service.
+
+    They tell us not to speak in Navajo language. You’re going to school.
+    You’re supposed to only speak English. And it was true. They did practice
+    that and we got punished if you was caught speaking Navajo.—John Brown,
+    Jr., Navajo Code Talker, National Museum of the American Indian interview,
+    2004
+    
 ##  Recruitment, 
 between 375 to 420 Navajos participate to the program. There  
 	-> on peut parler du fait qu'il y a eu  tout au long de la guerre
 	des formations
 ## Honors
-### Declassification They keep secret the program Navajo Code during years
-before declassified it in 1968. A partir de cette date des hommages ont été
-donnés régulièrement par différent biais. Film, documentaires, livres et
-récompense délivrées aux Navajos.
+- The program has been classified until 1968.
+- In 2000, the US Congree passed legislation to honor the Navajo Code Talkers
+  and give them special gold and silved congressional medals.
+- In 2008, the Code talkers recognition act was signed into law by president
+  George W. Bush, which recognizes every other native american code talker who served
+  in the United States military durring WWI or WWII 
 
-## Situation actuelle
+## Actual Situation
 
 # CONCLUSION
 Débat : Serait-il possible de refaire cette technique un jour? Mélangée avec des techniques modernes, est-ce que ça pourrait être déconcertant pour des ennemis?
 -> un truc me gêne dans ce choix de débat mais je ne sais pas encore quoi!
-
-A mettre quelque part:
-The Navajo code is the only spoken military code never to have been deciphered
-source: https://www.nytimes.com/2014/06/06/us/chester-nez-dies-at-93-his-native-tongue-helped-to-win-a-war-of-words.html?_r=0
