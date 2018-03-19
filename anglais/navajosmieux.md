@@ -19,7 +19,6 @@ secret messages during wartime.
 This method was particularly used by America which recruit native
 American who used their native language. 
 	
-
 ## Why by that time? 
 
 The first half of the 20th century is the meeting of two conditions that we
@@ -34,9 +33,60 @@ think are necessary for the apparition of code talkers:
 
 We choose to speak of the Navajo code talkers who are the best know
 and whose story is declassified since 1968.
-We will first relate how Navajo  code talkers have been recruited; 
-and then we will study the code they used.
-PUIS VOIR QUOI? leur reconnaissance?  
+
+We will first speak of the relation of Navajo and the US in the late 
+of the 19th century. Then, we will relate how Navajo code talkers have been recruited
+and we will finally study their code. 
+
+# Navajos and US in the begin of the 20th century
+
+## The Long Walk (1864)
+
+According to the website navajocodetalkers.org, Navajo long walk is considered as one of the 
+most important parts of Navajo history. 
+
+-  deportation of approximatively 8000 Navajo people by the government of the United States of
+ America with a forced trek over 480km into the Bosque Redondo camp.
+- Many began the walk exhausted and malnourished
+ 
+They were never informed as to: 
+
+- where they were going; 
+- why they were being relocated; 
+- and how long it would take to get there. 
+
+The journey lasted 18 days, nearly 200 Navajos died of exposure 
+to elements and starvation. 
+
+(source:  https://navajocodetalkers.org/navajo-long-walk/ )
+
+## Boarding schools 
+
+ In the begin of the 20th century, many American Indian children were forced to be in church-operated boarding schools. 
+ These schools were Founded to eliminate traditionnal American Indian ways of life: it was forbidden to speak in his native language here. 
+
+The children were forced to
+- cut their hair and give up their traditional clothing;
+- give up their meaningful Native names and take English ones; 
+- replace their traditional religious practices by Christianity. 
+They were taught that their cultures were inferior. 
+
+Many Code Talkers attended boarding schools. 
+Schools were run like military organizations and this
+made it easier for them to adapt to life in the American military.
+As adults, they found it puzzling that the same government that had tried to take
+away their languages in schools later gave them a critical role speaking their
+languages in military service.
+
+    They tell us not to speak in Navajo language. You’re going to school.
+    You’re supposed to only speak English. And it was true. They did practice
+    that and we got punished if you was caught speaking Navajo.—John Brown,
+    Jr., Navajo Code Talker, National Museum of the American Indian interview,
+    2004
+    
+![Boarding schools](pictures/boarding_schools.jpg)
+    
+(source: http://nmai.si.edu/education/codetalkers/html/chapter3.html )
 
 # Navajos as code-talkers: how they have been recruited.
 
@@ -205,56 +255,9 @@ The Navajo code is the only spoken military code never to have been deciphered
 
 source: https://www.nytimes.com/2014/06/06/us/chester-nez-dies-at-93-his-native-tongue-helped-to-win-a-war-of-words.html?_r=0
 
-# Navajos as humans 
 
-## The Long Walk (1864)
-
-According to the website navajocodetalkers.org, Navajo long walk is considered as one of the 
-most important parts of Navajo history. 
-
-- deportation of approximatively 8000 Navajo people by the government of the United States of
-  America with a forced trek over 480km into the Bosque Redondo camp.
-
-- Many began the walk exhausted and malnourished, 
-They were never informed as to: 
-- where they were going; 
-- why they were being relocated; 
-- and how long it would take to get there. 
-
-The journey lasted 18 days, nearly 200 Navajos died of exposure 
-to elements and starvation. 
-
-(source:  https://navajocodetalkers.org/navajo-long-walk/ )
-
-## Boarding schools 
-
- In the begin of the 20th century, many American Indian children were forced to be in church-operated boarding schools. 
- These schools were Founded to eliminate traditionnal American Indian ways of life: it was forbidden to speak in his native language here. 
-
-The children were forced to
-- cut their hair and give up their traditional clothing;
-- give up their meaningful Native names and take English ones; 
-- replace their traditional religious practices by Christianity. 
-They were taught that their cultures were inferior. 
-
-Many Code Talkers attended boarding schools. 
-Schools were run like military organizations and this
-made it easier for them to adapt to life in the American military.
-As adults, they found it puzzling that the same government that had tried to take
-away their languages in schools later gave them a critical role speaking their
-languages in military service.
-
-    They tell us not to speak in Navajo language. You’re going to school.
-    You’re supposed to only speak English. And it was true. They did practice
-    that and we got punished if you was caught speaking Navajo.—John Brown,
-    Jr., Navajo Code Talker, National Museum of the American Indian interview,
-    2004
-    
-![Boarding schools](pictures/boarding_schools.jpg)
-    
-(source: http://nmai.si.edu/education/codetalkers/html/chapter3.html )
-
-## Declassification and recognition of code talkers after the war
+# Conclusion: 
+##Declassification and recognition of code talkers after the war
  
 - The program has been classified until 1968.
 - In 2000, the US Congree passed legislation to honor the Navajo Code Talkers
@@ -263,7 +266,7 @@ languages in military service.
   George W. Bush, which recognizes every other native american code talker who served
   in the United States military durring WWI or WWII 
 
-# Actual Situation of the Navaho
+## Actual Situation of the Navaho
 
     - Current population: The Navajos have more than 300,000 tribal members.
     - Politicaly divised between two federally recognized tribes: Navajo Nation
@@ -276,8 +279,8 @@ languages in military service.
     people.
 
 
-# CONCLUSION
+## Opening..
 Débat : Serait-il possible de refaire cette technique un jour? Mélangée avec des techniques modernes, est-ce que ça pourrait être déconcertant pour des ennemis?
 
-
+# OH MY GOD
 https://www.nytimes.com/2017/11/27/us/politics/trump-elizabeth-warren-pocahontas-navajo.html
