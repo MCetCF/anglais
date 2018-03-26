@@ -274,28 +274,6 @@ TheThe major general Clayton
 % ------------------------------------------------------------------------------------------------
 
 \begin{frame}
-    \frametitle{Efficiency of the Navajos code talkers}
- 
-	Battle of Iwo Jima:
-	\begin{itemize}
-	\item<4-> six Navajo Code Talkers were operating continuously. They sent more than 800 messages. All of the messages were transmitted without error.
-	In practice:
-    \end{itemize}
-\begin{quote}
- ¿Were it not for the Navajos, the Marines would never have taken Iwo Jima.¿
-	\par
-Major Howard Connor, signan officier of the Navajos at Iwo Jima
-\end{quote}
-	      
-After the pacific war, they also served during the Korean War and 
-the begin of the Vietnam War.
-
-According to the NY times, the Navajo code is the only spoken military code
-never to have been deciphered.
-\end{frame}
-% ------------------------------------------------------------------------------------------------
-
-\begin{frame}
 \section{Navajo and Navajo code}
     \begin{itemize}
 	\item Why the Navajo language was a good choice
@@ -449,6 +427,29 @@ F & MA-E & Fox \\
 % ------------------------------------------------------------------------------------------------
 
 
+\begin{frame}
+    \frametitle{Efficiency of the Navajos code talkers}
+ 
+	Battle of Iwo Jima:
+	\begin{itemize}
+	\item<4-> six Navajo Code Talkers were operating continuously. They sent more than 800 messages. All of the messages were transmitted without error.
+	In practice:
+    \end{itemize}
+\begin{quote}
+ ¿Were it not for the Navajos, the Marines would never have taken Iwo Jima.¿
+	\par
+Major Howard Connor, signan officier of the Navajos at Iwo Jima
+\end{quote}
+	      
+After the pacific war, they also served during the Korean War and 
+the begin of the Vietnam War.
+
+    According to the NY times, the Navajo code is the only spoken military code
+    never to have been deciphered.
+
+
+
+\end{frame}
 
 
 \begin{frame}
