@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  26 MAR 2018 21:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  26 MAR 2018 21:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1173,13 +1173,13 @@ Overfull \vbox (23.3009pt too high) detected at line 117
 ] [14
 
 ]
-Overfull \vbox (7.10098pt too high) detected at line 190
+Overfull \vbox (1.22098pt too high) detected at line 192
  []
 
 [15
 
 ]
-Overfull \vbox (7.10098pt too high) detected at line 190
+Overfull \vbox (1.22098pt too high) detected at line 192
  []
 
 [16
@@ -1188,22 +1188,18 @@ Overfull \vbox (7.10098pt too high) detected at line 190
 File: pictures/Jonhston.jpg Graphic file (type jpg)
 
 <use pictures/Jonhston.jpg>
-Package pdftex.def Info: pictures/Jonhston.jpg used on input line 222.
-(pdftex.def)             Requested size: 46.0916pt x 73.91344pt.
-
-Overfull \vbox (24.83199pt too high) detected at line 222
- []
-
-[17
+Package pdftex.def Info: pictures/Jonhston.jpg used on input line 224.
+(pdftex.def)             Requested size: 39.94917pt x 64.06252pt.
+ [17
 
  <./pictures/Jonhston.jpg>]
-Overfull \vbox (6.42105pt too high) detected at line 248
+Overfull \vbox (6.42105pt too high) detected at line 250
  []
 
 [18
 
 ]
-Overfull \vbox (6.42105pt too high) detected at line 248
+Overfull \vbox (6.42105pt too high) detected at line 250
  []
 
 [19
@@ -1214,97 +1210,93 @@ Overfull \vbox (6.42105pt too high) detected at line 248
 File: pictures/letter.jpg Graphic file (type jpg)
 
 <use pictures/letter.jpg>
-Package pdftex.def Info: pictures/letter.jpg used on input line 273.
+Package pdftex.def Info: pictures/letter.jpg used on input line 275.
 (pdftex.def)             Requested size: 153.64493pt x 197.20934pt.
  [21
 
  <./pictures/letter.jpg>]
-Overfull \vbox (7.2696pt too high) detected at line 295
+Overfull \vbox (4.70097pt too high) detected at line 301
  []
 
 [22
 
 ]
-Overfull \vbox (7.2696pt too high) detected at line 295
+Overfull \vbox (4.70097pt too high) detected at line 301
  []
 
 [23
 
 ]
-Overfull \vbox (7.2696pt too high) detected at line 295
+Overfull \vbox (4.70097pt too high) detected at line 301
  []
 
 [24
 
+] [25
+
 ]
-Overfull \vbox (7.2696pt too high) detected at line 295
+Overfull \vbox (3.10953pt too high) detected at line 330
  []
 
-[25
-
-] [26
+[26
 
 ]
-Overfull \vbox (3.10953pt too high) detected at line 324
+Overfull \vbox (3.10953pt too high) detected at line 330
  []
 
 [27
 
 ]
-Overfull \vbox (3.10953pt too high) detected at line 324
+Overfull \vbox (3.10953pt too high) detected at line 330
  []
 
 [28
 
 ]
-Overfull \vbox (3.10953pt too high) detected at line 324
+Overfull \vbox (3.10953pt too high) detected at line 330
  []
 
 [29
 
 ]
-Overfull \vbox (3.10953pt too high) detected at line 324
+Overfull \vbox (3.10953pt too high) detected at line 330
  []
 
 [30
 
 ]
-Overfull \vbox (3.10953pt too high) detected at line 324
+Overfull \vbox (3.10953pt too high) detected at line 330
  []
 
 [31
 
 ]
-Overfull \vbox (3.10953pt too high) detected at line 324
+Overfull \vbox (3.10953pt too high) detected at line 330
  []
 
 [32
 
-]
-Overfull \vbox (3.10953pt too high) detected at line 324
+] <pictures/ships.jpg, id=226, 515.7669pt x 316.0608pt>
+File: pictures/ships.jpg Graphic file (type jpg)
+
+<use pictures/ships.jpg>
+Package pdftex.def Info: pictures/ships.jpg used on input line 345.
+(pdftex.def)             Requested size: 215.10196pt x 131.81384pt.
+
+Overfull \vbox (10.0638pt too high) detected at line 345
  []
 
 [33
 
-] <pictures/ships.jpg, id=231, 515.7669pt x 316.0608pt>
-File: pictures/ships.jpg Graphic file (type jpg)
-
-<use pictures/ships.jpg>
-Package pdftex.def Info: pictures/ships.jpg used on input line 339.
-(pdftex.def)             Requested size: 215.10196pt x 131.81384pt.
-
-Overfull \vbox (10.0638pt too high) detected at line 339
- []
-
-[34
-
- <./pictures/ships.jpg>] [35
+ <./pictures/ships.jpg>] [34
 
 ]
-Overfull \vbox (0.99786pt too high) detected at line 401
+Overfull \vbox (0.99786pt too high) detected at line 407
  []
 
-[36
+[35
+
+] [36
 
 ] [37
 
@@ -1316,21 +1308,19 @@ Overfull \vbox (0.99786pt too high) detected at line 401
 
 ] [41
 
-] [42
+]
+Overfull \vbox (16.42953pt too high) detected at line 488
+ []
+
+[42
 
 ]
-Overfull \vbox (16.42953pt too high) detected at line 480
+Overfull \vbox (16.42953pt too high) detected at line 488
  []
 
 [43
 
-]
-Overfull \vbox (16.42953pt too high) detected at line 480
- []
-
-[44
-
-] [45
+] [44
 
 ]
 \tf@nav=\write6
@@ -1342,11 +1332,11 @@ Overfull \vbox (16.42953pt too high) detected at line 480
 \tf@snm=\write8
 \openout8 = `code_talker.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 496.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 496.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 504.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 504.
  (./code_talker.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 496.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 496.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 504.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 504.
 Package rerunfilecheck Info: File `code_talker.out' has not changed.
 (rerunfilecheck)             Checksum: 4F417204D165ACDC74FE3FB019C42E66;457.
 
@@ -1357,13 +1347,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 496.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 504.
  ) 
 Here is how much of TeX's memory you used:
  21807 strings out of 493029
- 424858 string characters out of 6136234
+ 424855 string characters out of 6136234
  501200 words of memory out of 5000000
- 24729 multiletter control sequences out of 15000+600000
+ 24731 multiletter control sequences out of 15000+600000
  18397 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,13n,79p,1725b,748s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1375,10 +1365,10 @@ r/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr
 ype1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super
 /sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/
 share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb>
-Output written on code_talker.pdf (45 pages, 1740489 bytes).
+Output written on code_talker.pdf (44 pages, 1738802 bytes).
 PDF statistics:
- 352 PDF objects out of 1000 (max. 8388607)
- 283 compressed objects within 3 object streams
- 98 named destinations out of 1000 (max. 500000)
+ 346 PDF objects out of 1000 (max. 8388607)
+ 278 compressed objects within 3 object streams
+ 96 named destinations out of 1000 (max. 500000)
  119 words of extra memory for PDF output out of 10000 (max. 10000000)
 
