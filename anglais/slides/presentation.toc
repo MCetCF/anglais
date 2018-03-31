@@ -4,6 +4,6 @@
 \beamer@sectionintoc {2}{Navajos and US in the late of the 19th century}{8}{0}{2}
 \beamer@subsectionintoc {2}{1}{The Long Walk (1984)}{9}{0}{2}
 \beamer@subsectionintoc {2}{2}{Boarding schools }{12}{0}{2}
-\beamer@sectionintoc {3}{Navajos as code talkers: how they have been recruited}{13}{0}{3}
-\beamer@sectionintoc {4}{Navajo and Navajo code}{25}{0}{4}
-\beamer@sectionintoc {5}{Conclusion:}{41}{0}{5}
+\beamer@sectionintoc {3}{Navajos as code talkers: how they have been recruited}{14}{0}{3}
+\beamer@sectionintoc {4}{Navajo and Navajo code}{26}{0}{4}
+\beamer@sectionintoc {5}{Conclusion:}{42}{0}{5}

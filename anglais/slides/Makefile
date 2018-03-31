@@ -1,7 +1,7 @@
-all: code_talker.pdf
+all: presentation.pdf
 
-code_talker.pdf: code_talker.tex
-	 pdflatex code_talker.tex code_talker. 
+presentation.pdf: presentation.tex
+	 pdflatex presentation.tex presentation. 
 
 clean:  
 	rm -f *.aux *.out *.toc *.nav *.snm *.log
