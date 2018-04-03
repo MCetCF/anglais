@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  31 MAR 2018 15:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  4 APR 2018 01:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1082,25 +1082,28 @@ LaTeX Info: Redefining \degres on input line 18.
 LaTeX Info: Redefining \dots on input line 18.
 LaTeX Info: Redefining \up on input line 18.
  (./presentation.nav)
+Overfull \vbox (44.54378pt too high) detected at line 23
+ []
+
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 22.
+(Font)              size <5> substituted on input line 23.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 25.
+LaTeX Font Info:    Try loading font information for U+msa on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 25.
+LaTeX Font Info:    Try loading font information for U+msb on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 25.
+line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1109,22 +1112,22 @@ thkerncmss.
 [2
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 44.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 45.
 
-LaTeX Font Info:    No file OMScmss.fd. on input line 44.
+LaTeX Font Info:    No file OMScmss.fd. on input line 45.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 44.
+(Font)              for symbol `textbullet' on input line 45.
 
-<pictures/title.jpg, id=55, 1284.8pt x 963.6pt>
+<pictures/title.jpg, id=56, 1284.8pt x 963.6pt>
 File: pictures/title.jpg Graphic file (type jpg)
  <use pictures/title.jpg>
-Package pdftex.def Info: pictures/title.jpg used on input line 44.
+Package pdftex.def Info: pictures/title.jpg used on input line 45.
 (pdftex.def)             Requested size: 153.64493pt x 115.23001pt.
 
-Overfull \vbox (6.46024pt too high) detected at line 44
+Overfull \vbox (6.46024pt too high) detected at line 45
  []
 
 [3
@@ -1132,10 +1135,10 @@ Overfull \vbox (6.46024pt too high) detected at line 44
  <./pictures/title.jpg>]
 File: pictures/title.jpg Graphic file (type jpg)
  <use pictures/title.jpg>
-Package pdftex.def Info: pictures/title.jpg used on input line 44.
+Package pdftex.def Info: pictures/title.jpg used on input line 45.
 (pdftex.def)             Requested size: 153.64493pt x 115.23001pt.
 
-Overfull \vbox (6.46024pt too high) detected at line 44
+Overfull \vbox (6.46024pt too high) detected at line 45
  []
 
 [4
@@ -1143,27 +1146,27 @@ Overfull \vbox (6.46024pt too high) detected at line 44
 ]
 File: pictures/title.jpg Graphic file (type jpg)
  <use pictures/title.jpg>
-Package pdftex.def Info: pictures/title.jpg used on input line 44.
+Package pdftex.def Info: pictures/title.jpg used on input line 45.
 (pdftex.def)             Requested size: 153.64493pt x 115.23001pt.
 
-Overfull \vbox (6.46024pt too high) detected at line 44
+Overfull \vbox (6.46024pt too high) detected at line 45
  []
 
 [5
 
-] <pictures/SIGABA.png, id=74, 850.17625pt x 827.09pt>
+] <pictures/SIGABA.png, id=75, 850.17625pt x 827.09pt>
 File: pictures/SIGABA.png Graphic file (type png)
 
 <use pictures/SIGABA.png>
-Package pdftex.def Info: pictures/SIGABA.png used on input line 65.
+Package pdftex.def Info: pictures/SIGABA.png used on input line 66.
 (pdftex.def)             Requested size: 92.1879pt x 89.68028pt.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/bx/sc' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 65.
+(Font)              using `T1/cmss/bx/n' instead on input line 66.
 
 
-Overfull \vbox (2.0544pt too high) detected at line 65
+Overfull \vbox (2.0544pt too high) detected at line 66
  []
 
 [6
@@ -1200,7 +1203,7 @@ Package pdftex.def Info: pictures/boarding_schools.jpg used on input line 127.
 File: pictures/Jonhston.jpg Graphic file (type jpg)
 
 <use pictures/Jonhston.jpg>
-Package pdftex.def Info: pictures/Jonhston.jpg used on input line 204.
+Package pdftex.def Info: pictures/Jonhston.jpg used on input line 205.
 (pdftex.def)             Requested size: 39.94917pt x 64.06252pt.
  [17
 
@@ -1215,31 +1218,31 @@ Package pdftex.def Info: pictures/Jonhston.jpg used on input line 204.
 
 ] [22
 
-]
-Overfull \vbox (4.70097pt too high) detected at line 272
- []
+] [23
 
-[23
+] [24
 
-]
-Overfull \vbox (4.70097pt too high) detected at line 272
- []
-
-[24
-
-]
-Overfull \vbox (4.70097pt too high) detected at line 272
- []
-
-[25
+] [25
 
 ] [26
 
 ] [27
 
-] [28
+]
+<pictures/ships.jpg, id=200, 515.7669pt x 316.0608pt>
+File: pictures/ships.jpg Graphic file (type jpg)
+ <use pictures/ships.jpg>
+Package pdftex.def Info: pictures/ships.jpg used on input line 319.
+(pdftex.def)             Requested size: 215.10196pt x 131.81384pt.
 
-] [29
+[28
+
+ <./pictures/ships.jpg>]
+File: pictures/ships.jpg Graphic file (type jpg)
+ <use pictures/ships.jpg>
+Package pdftex.def Info: pictures/ships.jpg used on input line 319.
+(pdftex.def)             Requested size: 215.10196pt x 131.81384pt.
+ [29
 
 ] [30
 
@@ -1247,53 +1250,31 @@ Overfull \vbox (4.70097pt too high) detected at line 272
 
 ] [32
 
-] [33
-
 ]
-<pictures/ships.jpg, id=231, 515.7669pt x 316.0608pt>
-File: pictures/ships.jpg Graphic file (type jpg)
- <use pictures/ships.jpg>
-Package pdftex.def Info: pictures/ships.jpg used on input line 315.
-(pdftex.def)             Requested size: 215.10196pt x 131.81384pt.
+[33
 
-Overfull \vbox (10.0638pt too high) detected at line 315
- []
+] [34
 
-[34
+] [35
 
- <./pictures/ships.jpg>] [35
-
-]
-Overfull \vbox (0.99786pt too high) detected at line 377
- []
-
-[36
+] [36
 
 ] [37
 
-] [38
-
-] [39
-
-] [40
-
-] [41
-
-] [42
-
 ]
-Overfull \vbox (16.42953pt too high) detected at line 458
+<pictures/trump.jpg, id=255, 466.74374pt x 262.9825pt>
+File: pictures/trump.jpg Graphic file (type jpg)
+
+<use pictures/trump.jpg>
+Package pdftex.def Info: pictures/trump.jpg used on input line 487.
+(pdftex.def)             Requested size: 215.10196pt x 121.19812pt.
+
+Overfull \vbox (1.02127pt too high) detected at line 487
  []
 
-[43
+[38
 
-]
-Overfull \vbox (16.42953pt too high) detected at line 458
- []
-
-[44
-
-] [45
+ <./pictures/trump.jpg>] [39
 
 ]
 \tf@nav=\write6
@@ -1305,11 +1286,11 @@ Overfull \vbox (16.42953pt too high) detected at line 458
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 474.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 474.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 503.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 503.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 474.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 474.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 503.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 503.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: 4F417204D165ACDC74FE3FB019C42E66;457.
 
@@ -1320,16 +1301,16 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 474.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 503.
  ) 
 Here is how much of TeX's memory you used:
- 21783 strings out of 493029
- 424361 string characters out of 6136234
- 501140 words of memory out of 5000000
- 24705 multiletter control sequences out of 15000+600000
+ 21831 strings out of 493029
+ 425843 string characters out of 6136234
+ 500139 words of memory out of 5000000
+ 24764 multiletter control sequences out of 15000+600000
  18397 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,13n,79p,1727b,748s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,13n,88p,1727b,748s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/
 type1/public/cm-super/sfsi1095.pfb></usr/share/texmf/fonts/type1/public/cm-supe
@@ -1338,10 +1319,10 @@ r/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr
 ype1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super
 /sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/
 share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb>
-Output written on presentation.pdf (45 pages, 1921258 bytes).
+Output written on presentation.pdf (39 pages, 1964876 bytes).
 PDF statistics:
- 353 PDF objects out of 1000 (max. 8388607)
- 283 compressed objects within 3 object streams
- 98 named destinations out of 1000 (max. 500000)
- 124 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 321 PDF objects out of 1000 (max. 8388607)
+ 256 compressed objects within 3 object streams
+ 86 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
