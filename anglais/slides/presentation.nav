@@ -1,4 +1,3 @@
-\beamer@endinputifotherversion {3.36pt}
 \headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
 \headcommand {\beamer@framepages {1}{1}}
 \headcommand {\sectionentry {1}{Introduction}{2}{Introduction}{0}}
@@ -66,8 +65,10 @@
 \headcommand {\beamer@framepages {38}{38}}
 \headcommand {\slideentry {5}{0}{3}{39/39}{Boarding schools }{0}}
 \headcommand {\beamer@framepages {39}{39}}
-\headcommand {\beamer@partpages {1}{39}}
-\headcommand {\beamer@subsectionpages {12}{39}}
-\headcommand {\beamer@sectionpages {2}{39}}
-\headcommand {\beamer@documentpages {39}}
-\headcommand {\def \inserttotalframenumber {24}}
+\headcommand {\slideentry {5}{0}{4}{40/40}{Boarding schools }{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\beamer@partpages {1}{40}}
+\headcommand {\beamer@subsectionpages {12}{40}}
+\headcommand {\beamer@sectionpages {2}{40}}
+\headcommand {\beamer@documentpages {40}}
+\headcommand {\def \inserttotalframenumber {25}}
