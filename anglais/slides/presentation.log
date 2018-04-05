@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  5 APR 2018 11:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  5 APR 2018 11:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -984,17 +984,17 @@ Package pdftex.def Info: pictures/boarding_schools.jpg used on input line 131.
 ] <pictures/Jonhston.jpg, id=139, 285.7074pt x 458.1918pt>
 File: pictures/Jonhston.jpg Graphic file (type jpg)
  <use pictures/Jonhston.jpg>
-Package pdftex.def Info: pictures/Jonhston.jpg used on input line 196.
+Package pdftex.def Info: pictures/Jonhston.jpg used on input line 195.
 (pdftex.def)             Requested size: 61.45703pt x 98.55826pt.
  [17
 
  <./pictures/Jonhston.jpg>] <pictures/camp.jpg, id=145, 3011.25pt x 2443.1275pt>
 File: pictures/camp.jpg Graphic file (type jpg)
  <use pictures/camp.jpg>
-Package pdftex.def Info: pictures/camp.jpg used on input line 215.
+Package pdftex.def Info: pictures/camp.jpg used on input line 214.
 (pdftex.def)             Requested size: 122.91406pt x 99.72153pt.
 
-Overfull \vbox (4.20163pt too high) detected at line 215
+Overfull \vbox (4.20163pt too high) detected at line 214
  []
 
 [18
@@ -1020,14 +1020,14 @@ Overfull \vbox (4.20163pt too high) detected at line 215
 ] <pictures/ships.jpg, id=202, 515.7669pt x 316.0608pt>
 File: pictures/ships.jpg Graphic file (type jpg)
  <use pictures/ships.jpg>
-Package pdftex.def Info: pictures/ships.jpg used on input line 311.
+Package pdftex.def Info: pictures/ships.jpg used on input line 310.
 (pdftex.def)             Requested size: 215.10196pt x 131.81384pt.
  [28
 
  <./pictures/ships.jpg>]
 File: pictures/ships.jpg Graphic file (type jpg)
  <use pictures/ships.jpg>
-Package pdftex.def Info: pictures/ships.jpg used on input line 311.
+Package pdftex.def Info: pictures/ships.jpg used on input line 310.
 (pdftex.def)             Requested size: 215.10196pt x 131.81384pt.
  [29
 
@@ -1052,10 +1052,10 @@ Package pdftex.def Info: pictures/ships.jpg used on input line 311.
 ] <pictures/medal.jpg, id=261, 1003.75pt x 878.28125pt>
 File: pictures/medal.jpg Graphic file (type jpg)
  <use pictures/medal.jpg>
-Package pdftex.def Info: pictures/medal.jpg used on input line 483.
+Package pdftex.def Info: pictures/medal.jpg used on input line 482.
 (pdftex.def)             Requested size: 76.82246pt x 67.20839pt.
 
-Overfull \vbox (6.06526pt too high) detected at line 483
+Overfull \vbox (6.06526pt too high) detected at line 482
  []
 
 [39
@@ -1063,7 +1063,7 @@ Overfull \vbox (6.06526pt too high) detected at line 483
  <./pictures/medal.jpg>] <pictures/trump.jpeg, id=267, 466.74374pt x 262.9825pt>
 File: pictures/trump.jpeg Graphic file (type jpg)
  <use pictures/trump.jpeg>
-Package pdftex.def Info: pictures/trump.jpeg used on input line 511.
+Package pdftex.def Info: pictures/trump.jpeg used on input line 510.
 (pdftex.def)             Requested size: 215.10196pt x 121.19812pt.
  [40
 
@@ -1072,7 +1072,7 @@ Package pdftex.def Info: pictures/trump.jpeg used on input line 511.
 ] <pictures/navahos.jpeg, id=278, 536.0025pt x 402.50375pt>
 File: pictures/navahos.jpeg Graphic file (type jpg)
  <use pictures/navahos.jpeg>
-Package pdftex.def Info: pictures/navahos.jpeg used on input line 533.
+Package pdftex.def Info: pictures/navahos.jpeg used on input line 532.
 (pdftex.def)             Requested size: 215.10196pt x 161.52682pt.
  [42
 
@@ -1086,11 +1086,11 @@ Package pdftex.def Info: pictures/navahos.jpeg used on input line 533.
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 536.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 536.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 535.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 535.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 536.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 536.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 535.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 535.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: 4F417204D165ACDC74FE3FB019C42E66;457.
 
@@ -1101,7 +1101,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 536.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 535.
  ) 
 Here is how much of TeX's memory you used:
  21857 strings out of 493029
@@ -1112,7 +1112,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  69i,13n,88p,1713b,748s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb>
-Output written on presentation.pdf (42 pages, 3061637 bytes).
+Output written on presentation.pdf (42 pages, 3061602 bytes).
 PDF statistics:
  340 PDF objects out of 1000 (max. 8388607)
  269 compressed objects within 3 object streams

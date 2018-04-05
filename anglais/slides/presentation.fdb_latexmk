@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1522920605 "presentation.tex" "presentation.pdf" "presentation" 1522920606
+["pdflatex"] 1522922041 "presentation.tex" "presentation.pdf" "presentation" 1522922042
   "/etc/texmf/web2c/texmf.cnf" 1493983620 1101 af7716885e081ab43982cab7b4672c1a ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsi1095.tfm" 1136768653 3584 1a0353d13d3e702865b76e3b1c321b5b ""
@@ -227,16 +227,16 @@
   "pictures/ships.jpg" 1522865696 267552 a3153d215f2e7402e867ba31d9512a24 ""
   "pictures/title.jpg" 1522865696 495282 3282b98b09db95482c6f4192bd5458c7 ""
   "pictures/trump.jpeg" 1522865197 49657 a7c807823ae68be0bea023b9b39e5505 ""
-  "presentation.aux" 1522920606 7194 b48ad5315efa2cfad3d447d7357d784e ""
-  "presentation.nav" 1522920606 4279 296e60041085fdbae4604af18b67c292 ""
-  "presentation.out" 1522920606 457 4f417204d165acdc74fe3fb019c42e66 ""
-  "presentation.tex" 1522920601 17119 6130eb693a38a323ee78557d55f64281 ""
+  "presentation.aux" 1522922042 7194 b48ad5315efa2cfad3d447d7357d784e ""
+  "presentation.nav" 1522922042 4279 296e60041085fdbae4604af18b67c292 ""
+  "presentation.out" 1522922042 457 4f417204d165acdc74fe3fb019c42e66 ""
+  "presentation.tex" 1522922041 17074 60baf68c0c0ddfd891394079c31a0f80 ""
   "theme/beamerthememetropolis.sty" 1522865696 3461 5c69ffdf5501aa7e38eb53d6f51b5efa ""
   (generated)
-  "presentation.aux"
+  "presentation.snm"
+  "presentation.pdf"
+  "presentation.nav"
   "presentation.toc"
   "presentation.out"
-  "presentation.nav"
-  "presentation.pdf"
-  "presentation.snm"
   "presentation.log"
+  "presentation.aux"
